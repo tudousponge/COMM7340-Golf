@@ -2,7 +2,7 @@
 ## Trigger
 * List two or three recent news stories or personal observations (on AI and digital media, or digital media and society in general):    
 
-1.The application named ZAO, Which is mobile app that uses AI technology to allow netizens to replace the portrait of an actor with a photo of their own face, developed by Chinese dating app named Momo began circulating.
+1.The application named ZAO, Which is mobile app that uses AI technology to allow netizens to replace the portrait of an actor with a photo of their own face, developed by Chinese dating app named Momo began circulating
 2.
 
 ## Topic Areas
