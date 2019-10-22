@@ -3,15 +3,18 @@
 [Forget privacy: you're terrible at targeting anyway](https://apenwarr.ca/log/20190201)
   - It's mainly about ... recommending system.
   - People like collecting data while are not good at analyse it. 
-  - Even people can analyse every data they collect, 
+  - Even people can analyse every data they collect, data doesn't lead to the right way all the time.
+  - 
 
 ## Topic Areas
 
 - [ ] content production  
-- [ ] content distribution  
+- [x] content distribution  
 - [ ] media research(e.g. news framing, discourse, photos, videos, news bias
 - [ ] media effects  
-  Details:
+  Details:  
+  
+  
 
 ## Research Type    
 - [ ] about change
