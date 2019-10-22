@@ -1,10 +1,6 @@
 ## Trigger
 * List two or three recent news stories or personal observations (on AI and digital media, or digital media and society in general):  
-[Forget privacy: you're terrible at targeting anyway](https://apenwarr.ca/log/20190201)
-  - It's mainly about ... recommending system.
-  - People like collecting data while are not good at analyse it. 
-  - Even people can analyse every data they collect, data doesn't lead to the right way all the time.
-  - 
+
 
 ## Topic Areas
 
@@ -31,6 +27,12 @@
 - [ ] not involve human subjects  
 ### Literature Review
 * list three papers (titles, authors, abstracts, the URL of the papers) that are using the **data sources and method** you are also going to use:  
+[conferences and big guy on recommending sys](https://www.ctolib.com/topics-134912.html)
+[Forget privacy: you're terrible at targeting anyway](https://apenwarr.ca/log/20190201)
+  - It's mainly about ... recommending system.
+  - People like collecting data while are not good at analyse it. 
+  - Even people can analyse every data they collect, data doesn't lead to the right way all the time.
+  - 
 
 p.s.
 * A quick reading method is to see how previous studies **ask** the question (in the **Introduction** section), how they implement the **experiment** (in the **Method** part) and how they **discuss** their findings (the **Discussion** section). If you want to look for a theory, go to the Literature Review section.  
