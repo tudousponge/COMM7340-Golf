@@ -2,9 +2,9 @@
 ## Trigger
 * List two or three recent news stories or personal observations (on AI and digital media, or digital media and society in general):    
 
-1.The application named ZAO, Which is mobile app that uses AI technology to allow netizens to replace the portrait of an actor with a photo of their own face, developed by Chinese dating app named Momo began circulating
+1:The application named ZAO, Which is mobile app that uses AI technology to allow netizens to replace the portrait of an actor with a photo of their own face, developed by Chinese dating app named Momo began circulating
 
-2.huiche
+2:当你拍了一张照片后，手机会通过自身的 AI 算法来做进一步处理，一些以往需要在后期处理的事情，如今再按下快门的时候就完成了，这大大降低用户的后期成本，提升了成片的美感度。从目前 AI 拍照所展示的变化看来，AI 拍摄确实会影响我们的拍摄行为，数字算法似乎也是想引导我们往它指定的的方向走。
 
 ## Topic Areas
 
